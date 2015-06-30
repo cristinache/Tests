@@ -3,4 +3,7 @@ res = a*b
 return res
 }
 
+f2 <- function(....)
+# inserted new function f2
+
 
