@@ -1,1 +1,6 @@
 #only comments for a new file
+
+# Now I add a function for the second version of the file
+
+myff <- function ( bla bla bla)
+
